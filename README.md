@@ -13,6 +13,6 @@ Check a download: `shasum -a 256 -c SHA256SUMS.txt`
 
 | App | Releases |
 |---|---|
-| SwiftyHosts | [hosts-v*](https://github.com/swiftytool/releases/releases?q=SwiftyHosts&expanded=true) |
+| SwiftyHosts | Coming soon |
 
 Questions and bug reports: hello@swiftytool.com
